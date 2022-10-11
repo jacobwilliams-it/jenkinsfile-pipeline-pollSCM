@@ -1,1 +1,1 @@
-print ("Hello world, whats happening!?")
+print ("Conflict delayed is conflict multiplied")
