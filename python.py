@@ -1,1 +1,1 @@
-print ("Conflict delayed is conflict multiplied")
+print ("Life is like a box of chocolates")
